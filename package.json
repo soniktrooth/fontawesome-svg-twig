@@ -1,0 +1,19 @@
+{
+  "name": "fontawesome-svg-twig",
+  "version": "1.0.0",
+  "description": "Import Font Awesome SVGs into twig just by renaming them all .svg.twig.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalamuna/fontawesome-svg-twig.git"
+  },
+  "author": "Josh Walker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalamuna/fontawesome-svg-twig/issues"
+  },
+  "homepage": "https://github.com/kalamuna/fontawesome-svg-twig#readme"
+}
